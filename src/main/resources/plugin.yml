@@ -1,0 +1,11 @@
+name: LoginMessage
+version: '1.0.0'
+main: net.nutchi.loginMessage.LoginMessage
+api-version: '1.21'
+commands:
+  loginmessage:
+    aliases: [ lm ]
+    permission: loginmessage.command
+permissions:
+  loginmessage.command:
+    default: op
