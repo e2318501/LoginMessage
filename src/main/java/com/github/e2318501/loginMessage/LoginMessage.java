@@ -1,4 +1,4 @@
-package net.nutchi.loginMessage;
+package com.github.e2318501.loginMessage;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

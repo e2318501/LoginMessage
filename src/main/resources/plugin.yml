@@ -1,6 +1,6 @@
 name: LoginMessage
 version: '1.0.0'
-main: net.nutchi.loginMessage.LoginMessage
+main: com.github.e2318501.loginMessage.LoginMessage
 api-version: '1.21'
 commands:
   loginmessage:
